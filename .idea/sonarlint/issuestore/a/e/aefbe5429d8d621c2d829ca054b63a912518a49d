@@ -1,0 +1,26 @@
+
+i
+java:S1192"GDefine a constant instead of duplicating this literal "job_id" 3 times.(ßêˆüÿÿÿÿ8”Üû¾Ï1
+g
+java:S1192"JDefine a constant instead of duplicating this literal "last_name" 5 times.(©ÔÑ8•Üû¾Ï1
+j
+java:S1192"MDefine a constant instead of duplicating this literal "phone_number" 5 times.(ı½Î8•Üû¾Ï1
+f
+java:S1192"JDefine a constant instead of duplicating this literal "hire_date" 5 times.(™èı68•Üû¾Ï1
+d
+java:S1192 "GDefine a constant instead of duplicating this literal "salary" 4 times.(¶…ƒ„8•Üû¾Ï1
+h
+java:S1192"KDefine a constant instead of duplicating this literal "first_name" 7 times.(­ÕƒŠ8•Üû¾Ï1
+c
+java:S1192"FDefine a constant instead of duplicating this literal "email" 3 times.(¦ˆö£8•Üû¾Ï1
+L	java:S106#"+Replace this use of System.out by a logger.(½¼òæÿÿÿÿÿ8­Üû¾Ï1
+L	java:S106/"+Replace this use of System.out by a logger.(ƒÇãˆúÿÿÿÿ8®Üû¾Ï1
+L	java:S106:"+Replace this use of System.out by a logger.(ƒÇãˆúÿÿÿÿ8¯Üû¾Ï1
+L	java:S106E"+Replace this use of System.out by a logger.(ƒÇãˆúÿÿÿÿ8°Üû¾Ï1
+L	java:S106N"+Replace this use of System.out by a logger.(ÿÜÒìûÿÿÿÿ8²Üû¾Ï1
+L	java:S106Q"+Replace this use of System.out by a logger.(ƒÇãˆúÿÿÿÿ8³Üû¾Ï1
+L	java:S106\"+Replace this use of System.out by a logger.(ƒÇãˆúÿÿÿÿ8³Üû¾Ï1
+L	java:S106b"+Replace this use of System.out by a logger.(É”ªéÿÿÿÿÿ8³Üû¾Ï1
+L	java:S106d"+Replace this use of System.out by a logger.(ƒÇãˆúÿÿÿÿ8´Üû¾Ï1
+L	java:S106g"+Replace this use of System.out by a logger.(°‚ÿÏøÿÿÿÿ8”¥Ö¿Ï1
+L	java:S106i"+Replace this use of System.out by a logger.(ªÓ¼áşÿÿÿÿ8«ıØ¿Ï1
